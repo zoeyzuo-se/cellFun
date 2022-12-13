@@ -17,6 +17,7 @@
 		FE6F8D1E2947CD1B0068BFAA /* cellFunUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6F8D1D2947CD1B0068BFAA /* cellFunUITests.swift */; };
 		FE6F8D202947CD1B0068BFAA /* cellFunUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6F8D1F2947CD1B0068BFAA /* cellFunUITestsLaunchTests.swift */; };
 		FE6F8D2F2947CF0D0068BFAA /* FirstTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6F8D2E2947CF0D0068BFAA /* FirstTableViewController.swift */; };
+		FE6F8D312948E8770068BFAA /* secondTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6F8D302948E8760068BFAA /* secondTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		FE6F8D1D2947CD1B0068BFAA /* cellFunUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cellFunUITests.swift; sourceTree = "<group>"; };
 		FE6F8D1F2947CD1B0068BFAA /* cellFunUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cellFunUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FE6F8D2E2947CF0D0068BFAA /* FirstTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTableViewController.swift; sourceTree = "<group>"; };
+		FE6F8D302948E8760068BFAA /* secondTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				FE6F8CFC2947CD190068BFAA /* AppDelegate.swift */,
 				FE6F8CFE2947CD190068BFAA /* SceneDelegate.swift */,
 				FE6F8D002947CD190068BFAA /* ViewController.swift */,
+				FE6F8D302948E8760068BFAA /* secondTableViewController.swift */,
 				FE6F8D2E2947CF0D0068BFAA /* FirstTableViewController.swift */,
 				FE6F8D022947CD190068BFAA /* Main.storyboard */,
 				FE6F8D052947CD1A0068BFAA /* Assets.xcassets */,
@@ -265,6 +268,7 @@
 				FE6F8D012947CD190068BFAA /* ViewController.swift in Sources */,
 				FE6F8CFD2947CD190068BFAA /* AppDelegate.swift in Sources */,
 				FE6F8CFF2947CD190068BFAA /* SceneDelegate.swift in Sources */,
+				FE6F8D312948E8770068BFAA /* secondTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
